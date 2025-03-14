@@ -1,0 +1,1 @@
+X-Qlik-Session-api={23DA935C-D834-43BA-AA16-9F1ADCB88879}:b43cc7c0-87dd-41f3-a9fe-3392ff4cab12; Path=/; HttpOnly
